@@ -1,0 +1,57 @@
+* {
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(13, 13, 22);
+    font-size: 18px;
+}
+
+h1 {
+    color: rgb(0, 255, 255);
+    font-size: 5em;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+h3 {
+    color:rgb(68, 0, 228);
+    font-size: 1.5em;
+    margin-bottom: 0px;
+}
+
+img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+li {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+a {
+    color:rgb(214, 0, 221);
+    font-size: 20px;
+}
+
+em {
+    color:rgb(77, 72, 99)
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+    color:rgb(214, 0, 221);
+    font-size: 20px;
+}
+
+#note {
+    font-size: 15px;
+    text-align: center;
+}
+
+#pfp, #about {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
